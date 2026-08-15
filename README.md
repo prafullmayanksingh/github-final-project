@@ -1,11 +1,32 @@
-# This is the README.md file for the **github-final-project**
+# Simple Interest Calculator
 
-A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+A lightweight and easy-to-use Simple Interest Calculator.
 
-Input:
-   p, principal amount
-   t, time period in years
-   r, annual rate of interest
-Output
-   simple interest = p*t*r/100
+## 📝 Description
+This project is a simple utility designed to calculate the simple interest on a principal amount over a specific period of time at a given interest rate. It can be used for educational purposes, quick financial estimates, or integrated into larger financial software.
 
+## 🧮 Formula
+The calculator uses the standard Simple Interest formula:
+
+**SI = (P × R × T) / 100**
+
+Where:
+* **P** = Principal amount (initial investment or loan amount)
+* **R** = Annual interest rate (in percentage)
+* **T** = Time period (in years)
+
+## ✨ Features
+* Fast and accurate calculations.
+* Minimalistic and easy-to-understand code.
+* Lightweight with zero external dependencies.
+
+## 🚀 Getting Started
+
+### Prerequisites
+Make sure you have the necessary runtime environment installed. For example, if this is a Python project, you will need:
+* [Python 3.x](https://www.python.org/downloads/)
+
+### Installation
+1. Clone the repository:
+   ```bash
+)
